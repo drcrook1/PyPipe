@@ -1,0 +1,6 @@
+README.rst
+setup.py
+FuncPyPipe.egg-info/PKG-INFO
+FuncPyPipe.egg-info/SOURCES.txt
+FuncPyPipe.egg-info/dependency_links.txt
+FuncPyPipe.egg-info/top_level.txt

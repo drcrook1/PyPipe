@@ -10,12 +10,12 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='PyPipe',
+    name='FuncPyPipe',
 
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.0.1',
+    version='0.0.2',
 
     description='Enables functional composition in python',
     long_description='Makes composition of processing pipelines easier',
@@ -40,7 +40,7 @@ setup(
 
         # Indicate who your project is intended for
         'Intended Audience :: Developers',
-        'Topic :: Software Development :: Data Science',
+        'Topic :: Software Development :: Libraries',
 
         # Pick your license as you wish (should match "license" above)
         'License :: OSI Approved :: MIT License',

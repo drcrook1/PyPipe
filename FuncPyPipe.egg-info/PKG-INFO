@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: FuncPyPipe
+Version: 0.0.2
+Summary: Enables functional composition in python
+Home-page: https://github.com/drcrook1/PyPipe
+Author: David Crook
+Author-email: drcrook@outlook.com
+License: MIT
+Description: Makes composition of processing pipelines easier
+Keywords: pipe operator functional composition pipeline
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.5
