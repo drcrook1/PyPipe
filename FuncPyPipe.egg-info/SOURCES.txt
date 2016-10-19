@@ -1,5 +1,7 @@
 README.rst
 setup.py
+FuncPyPipe/FuncPyPipe.py
+FuncPyPipe/__init__.py
 FuncPyPipe.egg-info/PKG-INFO
 FuncPyPipe.egg-info/SOURCES.txt
 FuncPyPipe.egg-info/dependency_links.txt

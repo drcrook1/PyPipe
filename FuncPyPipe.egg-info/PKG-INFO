@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: FuncPyPipe
-Version: 0.0.2
+Version: 0.0.3
 Summary: Enables functional composition in python
 Home-page: https://github.com/drcrook1/PyPipe
 Author: David Crook
